@@ -1,0 +1,146 @@
+{
+    "id": "67418558919233558",
+    "action": "ITEM",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:19:09.805Z",
+    "event": {
+        "value": "ITEM_UPDATED",
+        "desc": "Item record updated"
+    },
+    "bib": null,
+    "holding": null,
+    "item": {
+        "bib_data": {
+            "mms_id": "99170789173604102",
+            "title": "Convergence or conflict in the Taiwan Strait : the illusion of peace? /",
+            "author": "Cole, J. Michael,",
+            "issn": null,
+            "isbn": "1138696242",
+            "complete_edition": "",
+            "network_number": [
+                "(OCoLC)960949342",
+                "(DGU)b60237958-01wrlc_guniv",
+                "(EXLNZ-01WRLC_NETWORK)9911356720104101"
+            ],
+            "place_of_publication": "London ;",
+            "date_of_publication": "©2017",
+            "publisher_const": "Routledge",
+            "link": "/almaws/v1/bibs/99170789173604102"
+        },
+        "holding_data": {
+            "holding_id": "22428694200004102",
+            "call_number_type": {
+                "value": "0",
+                "desc": "Library of Congress classification"
+            },
+            "call_number": "DS799.63.C6 C65 2017",
+            "accession_number": "",
+            "copy_id": "0",
+            "in_temp_location": false,
+            "temp_library": {
+                "value": "",
+                "desc": null
+            },
+            "temp_location": {
+                "value": "",
+                "desc": null
+            },
+            "temp_call_number_type": {
+                "value": "",
+                "desc": null
+            },
+            "temp_call_number": "",
+            "temp_policy": {
+                "value": "",
+                "desc": null
+            },
+            "link": "/almaws/v1/bibs/99170789173604102/holdings/22428694200004102"
+        },
+        "item_data": {
+            "pid": "23428694190004102",
+            "barcode": "31194012235259",
+            "creation_date": "2018-07-04Z",
+            "modification_date": "2020-10-13Z",
+            "base_status": {
+                "value": "0",
+                "desc": "Item not in place"
+            },
+            "awaiting_reshelving": false,
+            "physical_material_type": {
+                "value": "BOOK",
+                "desc": "Book"
+            },
+            "policy": {
+                "value": "circ",
+                "desc": "Regular loan"
+            },
+            "provenance": {
+                "value": "",
+                "desc": null
+            },
+            "po_line": "",
+            "is_magnetic": false,
+            "arrival_date": "2017-06-14Z",
+            "year_of_issue": "",
+            "enumeration_a": "",
+            "enumeration_b": "",
+            "enumeration_c": "",
+            "enumeration_d": "",
+            "enumeration_e": "",
+            "enumeration_f": "",
+            "enumeration_g": "",
+            "enumeration_h": "",
+            "chronology_i": "",
+            "chronology_j": "",
+            "chronology_k": "",
+            "chronology_l": "",
+            "chronology_m": "",
+            "description": "",
+            "receiving_operator": "import",
+            "process_type": {
+                "value": "HOLDSHELF",
+                "desc": "Hold Shelf"
+            },
+            "inventory_number": "",
+            "inventory_price": "",
+            "library": {
+                "value": "UNIV_LIB",
+                "desc": "American University Library"
+            },
+            "location": {
+                "value": "auc",
+                "desc": "Library Stacks"
+            },
+            "alternative_call_number": "",
+            "alternative_call_number_type": {
+                "value": "",
+                "desc": null
+            },
+            "storage_location_id": "",
+            "pages": "",
+            "pieces": "1",
+            "public_note": "",
+            "fulfillment_note": "",
+            "internal_note_1": "",
+            "internal_note_2": "",
+            "internal_note_3": "ON_RESERVE: N | RESERVE_CHARGES: 0 | RECALLS_PLACED: 0 | HOLDS_PLACED: 0 | HISTORICAL_BOOKINGS: 0 | SHORT_LOAN_CHARGES: 0 | ",
+            "statistics_note_1": "",
+            "statistics_note_2": "",
+            "statistics_note_3": "",
+            "requested": true,
+            "edition": null,
+            "imprint": null,
+            "language": null,
+            "physical_condition": {
+                "value": "",
+                "desc": null
+            }
+        },
+        "link": "/almaws/v1/bibs/99170789173604102/holdings/22428694200004102/items/23428694190004102"
+    },
+    "portfolio": null,
+    "representation": null
+}

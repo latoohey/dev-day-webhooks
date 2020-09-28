@@ -1,0 +1,55 @@
+{
+    "id": "4729646413727017106",
+    "action": "LOAN",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:20:36.005Z",
+    "event": {
+        "value": "LOAN_CREATED",
+        "desc": "Loan created"
+    },
+    "item_loan": {
+        "loan_id": "6959825320004102",
+        "circ_desk": {
+            "value": "MEDIA-TECH",
+            "desc": "Media and Technology Center"
+        },
+        "library": {
+            "value": "UNIV_LIB",
+            "desc": "American University Library"
+        },
+        "user_id": "AU8675309",
+        "item_barcode": "31194012556670",
+        "due_date": "2020-10-13T19:00:00Z",
+        "loan_status": "ACTIVE",
+        "loan_date": "2020-10-13T16:20:05.910Z",
+        "process_status": "NORMAL",
+        "mms_id": "99176077733604102",
+        "holding_id": "22608413960004102",
+        "item_id": "23490773380004102",
+        "title": "Faculty staff laptop",
+        "author": null,
+        "description": null,
+        "location_code": {
+            "value": "auts",
+            "name": "Media and Technology Center, Lower Level"
+        },
+        "item_policy": {
+            "value": "FACSTAFFLAPTOP",
+            "description": "Faculty Staff Laptops"
+        },
+        "call_number": "Tech Services Faculty Laptop",
+        "renewable": false,
+        "last_renew_status": {
+            "value": "",
+            "desc": ""
+        }
+    },
+    "bib": null,
+    "holding": null,
+    "item": null,
+    "portfolio": null,
+    "representation": null
+}

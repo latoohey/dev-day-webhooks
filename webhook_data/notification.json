@@ -1,0 +1,308 @@
+{
+    "id": "7546094952601200513",
+    "action": "NOTIFICATION",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:40:30.773Z",
+    "event": null,
+    "notification_data": {
+        "general_data": {
+            "letter_name": "Request Update",
+            "letter_type": "FulCancelRequestLetter",
+            "subject": "Request Update"
+        },
+        "item": [{
+            "bib_data": {
+                "mms_id": "99186250252104102",
+                "title": "How to succeed at school : separating fact from fiction : what every parent should know /",
+                "author": "Berliner, Wendy,",
+                "issn": null,
+                "isbn": "0367186462",
+                "complete_edition": "",
+                "network_number": [
+                    "(OCoLC)on1137260832",
+                    "(OCoLC)1137260832",
+                    "(EXLNZ-01WRLC_NETWORK)9912884447004101"
+                ],
+                "place_of_publication": "Abingdon, Oxon ;",
+                "date_of_publication": "2020.",
+                "publisher_const": "Routledge",
+                "link": "/almaws/v1/bibs/99186250252104102"
+            },
+            "holding_data": {
+                "holding_id": "22612492420004102",
+                "call_number_type": {
+                    "value": "0",
+                    "desc": "Library  of Congress classification "
+                },
+                "call_number": "LB1062.6 .B47 2020",
+                "accession_number": "",
+                "copy_id": "",
+                "in_temp_location": false,
+                "temp_library": {
+                    "value": "RES_SHARE",
+                    "desc": "Resource Sharing Library"
+                },
+                "temp_location": {
+                    "value": "IN_RS_REQ",
+                    "desc": "Lending Resource Sharing Requests"
+                },
+                "temp_call_number_type": {
+                    "value": "",
+                    "desc": null
+                },
+                "temp_call_number": "",
+                "temp_policy": {
+                    "value": "",
+                    "desc": null
+                },
+                "link": "/almaws/v1/bibs/99186250252104102/holdings/22612492420004102"
+            },
+            "item_data": {
+                "pid": "23612492410004102",
+                "barcode": "31194012802801",
+                "creation_date": "2020-01-07Z",
+                "modification_date": "2020-10-13Z",
+                "base_status": {
+                    "value": "0",
+                    "desc": "Item not in place"
+                },
+                "awaiting_reshelving": false,
+                "physical_material_type": {
+                    "value": "BOOK",
+                    "desc": "Book"
+                },
+                "policy": {
+                    "value": "circ",
+                    "desc": "Regular loan"
+                },
+                "provenance": {
+                    "value": "",
+                    "desc": null
+                },
+                "po_line": "POL-25599",
+                "arrival_date": "2020-01-16Z",
+                "expected_arrival_date": "2020-01-22Z",
+                "year_of_issue": "",
+                "enumeration_a": "",
+                "enumeration_b": "",
+                "enumeration_c": "",
+                "enumeration_d": "",
+                "enumeration_e": "",
+                "enumeration_f": "",
+                "enumeration_g": "",
+                "enumeration_h": "",
+                "chronology_i": "",
+                "chronology_j": "",
+                "chronology_k": "",
+                "chronology_l": "",
+                "chronology_m": "",
+                "description": "",
+                "receiving_operator": "AU8675309",
+                "process_type": {
+                    "value": "HOLDSHELF",
+                    "desc": "Hold Shelf"
+                },
+                "inventory_number": "",
+                "inventory_price": "15.90 USD",
+                "library": {
+                    "value": "UNIV_LIB",
+                    "desc": "American University Library"
+                },
+                "location": {
+                    "value": "auc",
+                    "desc": "Library Stacks"
+                },
+                "alternative_call_number": "",
+                "alternative_call_number_type": {
+                    "value": "",
+                    "desc": null
+                },
+                "storage_location_id": "",
+                "pages": "",
+                "pieces": "",
+                "public_note": "",
+                "fulfillment_note": "",
+                "internal_note_1": "",
+                "internal_note_2": "",
+                "internal_note_3": "",
+                "statistics_note_1": "",
+                "statistics_note_2": "",
+                "statistics_note_3": "",
+                "requested": null,
+                "edition": null,
+                "imprint": null,
+                "language": null,
+                "physical_condition": {
+                    "value": "",
+                    "desc": null
+                }
+            },
+            "link": "/almaws/v1/bibs/99186250252104102/holdings/22612492420004102/items/23612492410004102"
+        }],
+        "receiver": {
+            "record_type": {
+                "value": "PUBLIC",
+                "desc": "Public"
+            },
+            "primary_id": "AU8675309",
+            "full_name": "Liam Toohey",
+            "pin_number": "UpUpAndAway",
+            "gender": null,
+            "user_group": {
+                "value": "aufac",
+                "desc": "au fac"
+            },
+            "preferred_language": {
+                "value": "en",
+                "desc": "English"
+            },
+            "expiry_date": "2020-05-31Z",
+            "purge_date": "2021-05-31Z",
+            "account_type": {
+                "value": "EXTERNAL",
+                "desc": "External"
+            },
+            "external_id": "SIS",
+            "password": null,
+            "status": {
+                "value": "ACTIVE",
+                "desc": "Active"
+            },
+            "contact_info": {
+                "address": [{
+                        "line1": "1600 Pennsylvania Ave. NW",
+                        "line2": null,
+                        "line3": null,
+                        "line4": null,
+                        "line5": null,
+                        "city": "Washington",
+                        "state_province": "DC",
+                        "postal_code": "20500",
+                        "country": {
+                            "value": "",
+                            "desc": ""
+                        },
+                        "address_note": "",
+                        "start_date": "2018-10-15Z",
+                        "end_date": "2020-05-30Z",
+                        "address_type": [{
+                            "value": "work",
+                            "desc": "Work"
+                        }],
+                        "preferred": true,
+                        "segment_type": "Internal"
+                    },
+                    {
+                        "line1": "University Library",
+                        "line2": "Bender Library",
+                        "line3": "4400 Massachusetts Ave, NW",
+                        "line4": null,
+                        "line5": null,
+                        "city": "Washington",
+                        "state_province": "DC",
+                        "postal_code": "20016",
+                        "country": {
+                            "value": "",
+                            "desc": ""
+                        },
+                        "address_note": "",
+                        "start_date": "2020-01-21Z",
+                        "end_date": "2021-05-31Z",
+                        "address_type": [{
+                            "value": "work",
+                            "desc": "Work"
+                        }],
+                        "preferred": false,
+                        "segment_type": "External"
+                    }
+                ],
+                "email": [{
+                    "email_address": "email@american.edu",
+                    "description": null,
+                    "email_type": [{
+                        "value": "school",
+                        "desc": "School"
+                    }],
+                    "preferred": true,
+                    "segment_type": "External"
+                }],
+                "phone": [{
+                        "phone_number": "15555555555",
+                        "phone_type": [{
+                            "value": "mobile",
+                            "desc": "Mobile"
+                        }],
+                        "preferred": false,
+                        "preferred_sms": true,
+                        "segment_type": "Internal"
+                    },
+                    {
+                        "phone_number": "202-885-1000",
+                        "phone_type": [{
+                            "value": "office",
+                            "desc": "Office"
+                        }],
+                        "preferred": true,
+                        "preferred_sms": false,
+                        "segment_type": "External"
+                    }
+                ]
+            },
+            "user_identifier": [{
+                    "value": "21194028675309",
+                    "id_type": {
+                        "value": "BARCODE",
+                        "desc": "Barcode"
+                    },
+                    "note": null,
+                    "status": "ACTIVE",
+                    "segment_type": "External"
+                },
+                {
+                    "value": "8675309",
+                    "id_type": {
+                        "value": "INST_ID",
+                        "desc": "Institution ID"
+                    },
+                    "note": null,
+                    "status": "ACTIVE",
+                    "segment_type": "External"
+                }
+            ],
+            "link": null
+        },
+        "user_request": [{
+            "request_id": "6959892930004102",
+            "request_type": "HOLD",
+            "request_sub_type": {
+                "value": "PATRON_PHYSICAL",
+                "desc": "Patron physical item request"
+            },
+            "mms_id": "99186250252104102",
+            "title": "How to succeed at school : separating fact from fiction : what every parent should know /",
+            "author": "Berliner, Wendy, author.",
+            "description": null,
+            "pickup_location": "American University Library",
+            "pickup_location_type": "LIBRARY",
+            "pickup_location_library": "UNIV_LIB",
+            "material_type": {
+                "value": "BOOK",
+                "desc": "Book"
+            },
+            "comment": null,
+            "request_status": "HISTORY",
+            "request_date": "2020-10-13Z",
+            "item_id": "23612492410004102",
+            "barcode": "31194012802801"
+        }],
+        "sms_content": " : American University Library.\nHi Toohey, Liam,\nYour request for title  \"How to succeed at school : separating fact from fiction : what every parent should know /\" has been cancelled.\nPlease contact the library with any questions.\n\n\t"
+    },
+    "bib": null,
+    "holding": null,
+    "item": null,
+    "portfolio": null,
+    "representation": null
+}

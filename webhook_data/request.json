@@ -1,0 +1,43 @@
+{
+    "id": "5182762615859927411",
+    "action": "REQUEST",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:18:18.040Z",
+    "event": {
+        "value": "REQUEST_PLACED_ON_SHELF",
+        "desc": "Request placed on shelf"
+    },
+    "user_request": {
+        "user_primary_id": "8675309",
+        "request_id": "6944906510004102",
+        "request_type": "HOLD",
+        "request_sub_type": {
+            "value": "PATRON_PHYSICAL",
+            "desc": "Patron physical item request"
+        },
+        "mms_id": "994526713604102",
+        "title": "Boehme : an intellectual biography of the seventeenth-century philosopher and mystic / Andrew Weeks",
+        "author": "Weeks, Andrew",
+        "description": null,
+        "material_type": {
+            "value": "BOOK",
+            "desc": "Book"
+        },
+        "comment": null,
+        "request_status": "ON_HOLD_SHELF",
+        "request_date": "2020-10-13Z",
+        "request_time": "2020-10-13T18:24:19.453Z",
+        "task_name": "On Hold Shelf",
+        "expiry_date": "2020-10-23Z",
+        "item_id": "23473255250004102",
+        "barcode": "31194004348870"
+    },
+    "bib": null,
+    "holding": null,
+    "item": null,
+    "portfolio": null,
+    "representation": null
+}

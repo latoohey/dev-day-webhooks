@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<record>
+    <leader>00420nam  22001453u 4500</leader>
+    <controlfield tag="001">99186267758404102</controlfield>
+    <controlfield tag="008">200126s2013####xx######r#####000#0#eng#d</controlfield>
+    <controlfield tag="005">20200126112108.0</controlfield>
+    <datafield ind1="" ind2="" tag="010">
+        <subfield code="a">2002002895</subfield>
+    </datafield>
+    <datafield ind1="" ind2="" tag="020">
+        <subfield code="a">1556524307</subfield>
+    </datafield>
+    <datafield ind1="" ind2="" tag="035">
+        <subfield code="a">49416127</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="" tag="100">
+        <subfield code="a">Watkins, Mel,</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+        <subfield code="a">African American humor : the best Black comedy from slavery to today /</subfield>
+    </datafield>
+    <datafield ind1="" ind2="" tag="250">
+        <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield ind1="" ind2="" tag="260">
+        <subfield code="a">Chicago, Ill. :</subfield>
+        <subfield code="b">Lawrence Hill Books,</subfield>
+        <subfield code="c">[2002]</subfield>
+    </datafield>
+</record>

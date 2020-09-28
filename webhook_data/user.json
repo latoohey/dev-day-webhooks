@@ -1,0 +1,228 @@
+{
+    "id": "3860383463824639544",
+    "action": "USER",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:30:47.333Z",
+    "event": null,
+    "webhook_user": {
+        "method": "UPDATE",
+        "cause": "UI",
+        "user": {
+            "record_type": {
+                "value": "PUBLIC",
+                "desc": "Public"
+            },
+            "primary_id": "AU8675309",
+            "first_name": "Liam",
+            "middle_name": "",
+            "last_name": "Toohey",
+            "full_name": "Liam Toohey",
+            "pin_number": "UpUpAndAway",
+            "user_title": {
+                "value": "",
+                "desc": ""
+            },
+            "job_category": {
+                "value": "WRLCFaculty",
+                "desc": "WRLC Faculty"
+            },
+            "job_description": "",
+            "gender": {
+                "value": "",
+                "desc": ""
+            },
+            "user_group": {
+                "value": "aufac",
+                "desc": "au fac"
+            },
+            "campus_code": {
+                "value": "",
+                "desc": ""
+            },
+            "web_site_url": "",
+            "cataloger_level": {
+                "value": "00",
+                "desc": "[00] Default Level"
+            },
+            "preferred_language": {
+                "value": "en",
+                "desc": "English"
+            },
+            "expiry_date": "2020-05-31Z",
+            "purge_date": "2021-05-31Z",
+            "account_type": {
+                "value": "EXTERNAL",
+                "desc": "External"
+            },
+            "external_id": "SIS",
+            "password": "",
+            "force_password_change": "",
+            "status": {
+                "value": "ACTIVE",
+                "desc": "Active"
+            },
+            "status_date": "2020-01-22Z",
+            "contact_info": {
+                "address": [{
+                        "line1": "University Library",
+                        "line2": "Bender Library",
+                        "line3": "4400 Massachusetts Ave, NW",
+                        "line4": null,
+                        "line5": null,
+                        "city": "Washington",
+                        "state_province": "DC",
+                        "postal_code": "20016",
+                        "country": {
+                            "value": "",
+                            "desc": ""
+                        },
+                        "address_note": "",
+                        "start_date": "2020-01-21Z",
+                        "end_date": "2021-05-31Z",
+                        "address_type": [{
+                            "value": "work",
+                            "desc": "Work"
+                        }],
+                        "preferred": false,
+                        "segment_type": "External"
+                    },
+                    {
+                        "line1": "1600 Pennsylvania Ave. NW",
+                        "line2": null,
+                        "line3": null,
+                        "line4": null,
+                        "line5": null,
+                        "city": "Washington",
+                        "state_province": "DC",
+                        "postal_code": "20500",
+                        "country": {
+                            "value": "",
+                            "desc": ""
+                        },
+                        "address_note": "",
+                        "start_date": "2018-10-15Z",
+                        "end_date": "2020-05-30Z",
+                        "address_type": [{
+                            "value": "work",
+                            "desc": "Work"
+                        }],
+                        "preferred": true,
+                        "segment_type": "Internal"
+                    }
+                ],
+                "email": [{
+                    "email_address": "email@american.edu",
+                    "description": null,
+                    "email_type": [{
+                        "value": "school",
+                        "desc": "School"
+                    }],
+                    "preferred": true,
+                    "segment_type": "External"
+                }],
+                "phone": [{
+                        "phone_number": "15555555555",
+                        "phone_type": [{
+                            "value": "mobile",
+                            "desc": "Mobile"
+                        }],
+                        "preferred": false,
+                        "preferred_sms": true,
+                        "segment_type": "Internal"
+                    },
+                    {
+                        "phone_number": "202-885-1000",
+                        "phone_type": [{
+                            "value": "office",
+                            "desc": "Office"
+                        }],
+                        "preferred": true,
+                        "preferred_sms": false,
+                        "segment_type": "External"
+                    }
+                ]
+            },
+            "user_identifier": [{
+                    "value": "21194028675309",
+                    "id_type": {
+                        "value": "BARCODE",
+                        "desc": "Barcode"
+                    },
+                    "note": null,
+                    "status": "ACTIVE",
+                    "segment_type": "External"
+                },
+                {
+                    "value": "8675309",
+                    "id_type": {
+                        "value": "INST_ID",
+                        "desc": "Institution ID"
+                    },
+                    "note": null,
+                    "status": "ACTIVE",
+                    "segment_type": "External"
+                }
+            ],
+            "user_role": [{
+                    "status": {
+                        "value": "ACTIVE",
+                        "desc": "Active"
+                    },
+                    "scope": {
+                        "value": "01WRLC_AMU",
+                        "desc": "American University"
+                    },
+                    "role_type": {
+                        "value": "200",
+                        "desc": "Patron"
+                    },
+                    "parameter": [
+
+                    ]
+                },
+                {
+                    "status": {
+                        "value": "ACTIVE",
+                        "desc": "Active"
+                    },
+                    "scope": {
+                        "value": "01WRLC_AMU",
+                        "desc": "American University"
+                    },
+                    "role_type": {
+                        "value": "26",
+                        "desc": "General System Administrator"
+                    },
+                    "parameter": [
+
+                    ]
+                }
+            ],
+            "user_block": [
+
+            ],
+            "user_note": [],
+            "user_statistic": [{
+                "statistic_category": {
+                    "value": "85001",
+                    "desc": "University Library"
+                },
+                "segment_type": "External"
+            }],
+            "proxy_for_user": [],
+            "linking_id": "413789900004102",
+            "pref_first_name": "Preferred",
+            "pref_middle_name": "",
+            "pref_last_name": "Toohey",
+            "link": null
+        }
+    },
+    "bib": null,
+    "holding": null,
+    "item": null,
+    "portfolio": null,
+    "representation": null
+}

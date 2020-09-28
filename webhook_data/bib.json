@@ -1,0 +1,50 @@
+{
+    "id": "2608554154660988665",
+    "action": "BIB",
+    "institution": {
+        "value": "01WRLC_AMU",
+        "desc": "American University"
+    },
+    "time": "2020-10-13T16:21:16.109Z",
+    "event": {
+        "value": "BIB_CREATED",
+        "desc": "BIB record created"
+    },
+    "bib": {
+        "mms_id": "99186267758404102",
+        "record_format": "marc21",
+        "linked_record_id": {
+            "value": "",
+            "type": null
+        },
+        "title": "African American humor : the best Black comedy from slavery to today /",
+        "author": "Watkins, Mel,",
+        "issn": null,
+        "isbn": "1556524307",
+        "complete_edition": "1st ed.",
+        "network_number": [
+            "49416127"
+        ],
+        "place_of_publication": "Chicago, Ill. :",
+        "date_of_publication": "[2002]",
+        "publisher_const": "Lawrence Hill Books",
+        "holdings": {
+            "value": "",
+            "link": "/almaws/v1/bibs/99186267758404102/holdings"
+        },
+        "created_by": "System",
+        "created_date": "2020-10-13Z",
+        "last_modified_by": "System",
+        "last_modified_date": "2020-10-13Z",
+        "suppress_from_publishing": "true",
+        "anies": [
+            "<?xml version=\"1.0\" encoding=\"UTF-16\"?><record><leader>00420nam  22001453u 4500</leader><controlfield tag=\"001\">99186267758404102</controlfield><controlfield tag=\"008\">200126s2013####xx######r#####000#0#eng#d</controlfield><controlfield tag=\"005\">20200126112108.0</controlfield><datafield ind1=\" \" ind2=\" \" tag=\"010\"><subfield code=\"a\">2002002895</subfield></datafield><datafield ind1=\" \" ind2=\" \" tag=\"020\"><subfield code=\"a\">1556524307</subfield></datafield><datafield ind1=\" \" ind2=\" \" tag=\"035\"><subfield code=\"a\">49416127</subfield></datafield><datafield ind1=\"1\" ind2=\" \" tag=\"100\"><subfield code=\"a\">Watkins, Mel,</subfield></datafield><datafield ind1=\"1\" ind2=\"0\" tag=\"245\"><subfield code=\"a\">African American humor : the best Black comedy from slavery to today /</subfield></datafield><datafield ind1=\" \" ind2=\" \" tag=\"250\"><subfield code=\"a\">1st ed.</subfield></datafield><datafield ind1=\" \" ind2=\" \" tag=\"260\"><subfield code=\"a\">Chicago, Ill. :</subfield><subfield code=\"b\">Lawrence Hill Books,</subfield><subfield code=\"c\">[2002]</subfield></datafield></record>"
+        ],
+        "requests": null,
+        "link": null
+    },
+    "holding": null,
+    "item": null,
+    "portfolio": null,
+    "representation": null
+}
