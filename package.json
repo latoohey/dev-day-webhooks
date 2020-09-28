@@ -9,12 +9,10 @@
   "author": "Liam Toohey",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
     "compression": "^1.7.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.16.4",
-    "googleapis": "^59.0.0",
     "helmet": "^3.15.0",
     "morgan": "^1.9.1"
   },
