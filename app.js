@@ -14,6 +14,8 @@ app.use(cors({methods: ['GET,POST']}));
 app.use(compress());
 app.use(express.json());
 
+app.get('/', (req, res) => res.send('It works!'));
+
 app.use((req, res, next) => {
   const error = new Error('Not found');
   error.status = 404;
